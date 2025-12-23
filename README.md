@@ -1,5 +1,5 @@
 # Hi, I'm Pasutorn 👋
-> **Junior Full Stack Developer | Multimedia Graduate**
+> **Junior Full Stack Developer | CMM KMUTT**
 
 ---
 
